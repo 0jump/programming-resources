@@ -7,3 +7,5 @@
 
 ### Plain Letter G
 <a href="https://www.shutterstock.com/image-vector/creative-logo-design-letter-g-colorful-262760231?irgwc=1&utm_medium=Affiliate&utm_campaign=Freepik%20Company%2C%20S.L.&utm_source=39422&utm_term=1125944307.1542224124">Letter G with indentations</a>
+
+<a href="https://www.shutterstock.com/image-vector/g-logo-letter-abstract-1012959628?irgwc=1&utm_medium=Affiliate&utm_campaign=Freepik%20Company%2C%20S.L.&utm_source=39422&utm_term=1125944307.1542224124">Simple Flat Hexagonal G</a>
