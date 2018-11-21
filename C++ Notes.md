@@ -50,3 +50,21 @@ string myString = "Hello World!";
     `myString.substr(start, length)`
 
     Returns the substring of length `length` beginning at the position `start`
+
+
+### Type Aliases
+
+#### Anatomy
+
+```c++
+typedef type alias;
+```
+
+#### Example
+
+```cpp
+typedef vector<double> Vecteur;
+typedef vector<Vecteur> Matrice;
+
+Matrice rotation(3, Vecteur(3, 1.0));
+```
