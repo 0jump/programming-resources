@@ -52,7 +52,78 @@ string myString = "Hello World!";
     Returns the substring of length `length` beginning at the position `start`
 
 
-### Type Aliases
+## Vectors
+
+### Declaration
+
+Make sure to `#include <vector>`
+
+```c++
+vector<elementTypes> myVect(nbrOfElements, filledValue);
+
+// Example
+vector<int> myVect(4, 100);
+// myVect: {100,100,100,100}  
+```
+
+### Methods
+
+1. <b>Size</b>
+
+```c++
+size_t myVectSize = myVect.size();
+```
+
+Returns the vector size (number of elements in the vector). (Return type: size_t)
+2. <b>Front</b>
+
+```c++
+myVect.front();
+```
+
+Same as `myVect[0]`.
+
+3. <b>Back</b>
+
+```c++
+myVect.back();
+```
+
+Same as `myVect[myVect.size() - 1]`.
+
+4. <b>Empty</b>
+
+```c++
+myVect.empty();
+```
+
+Returns whether the vector is empty or not. (Return Boolean)
+
+5. <b>clear</b>
+
+```c++
+myVect.clear();
+```
+
+Removes all elements in a vector, transforming it to an empty vector. (No return)
+
+6. <b>Pop Back</b>
+
+```c++
+myVect.pop_back();
+```
+
+Delete the last element in the vector. (No return)
+
+7. <b>Push Back</b>
+
+```c++
+myVect.push_back(newElem);
+```
+
+Adds `newElem` to the end of the vector. (No return)
+
+## Type Aliases
 
 #### Anatomy
 
@@ -68,3 +139,4 @@ typedef vector<Vecteur> Matrice;
 
 Matrice rotation(3, Vecteur(3, 1.0));
 ```
+
