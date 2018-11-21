@@ -29,7 +29,7 @@ string myString = "Hello World!";
 
     Can be used to remove characters from a string: `myString.replace(position, nbrOfCharacters, "")` <-- Empty string
 
-3. <b>Find</b>
+4. <b>Find</b>
 
     `myString.find(substring)`
 
@@ -37,7 +37,7 @@ string myString = "Hello World!";
 
     IF the substring doesn't appear in `myString`, it returns a predefined value: `string::npos`
 
-4. <b>rFind</b>
+5. <b>rFind</b>
 
     `myString.find(substring)`
 
@@ -45,7 +45,7 @@ string myString = "Hello World!";
 
     IF the substring doesn't appear in `myString`, it returns a predefined value: `string::npos`
 
-5. <b>Substr</b>
+6. <b>Substr</b>
 
     `myString.substr(start, length)`
 
