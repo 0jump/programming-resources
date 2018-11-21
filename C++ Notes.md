@@ -139,4 +139,3 @@ typedef vector<Vecteur> Matrice;
 
 Matrice rotation(3, Vecteur(3, 1.0));
 ```
-
