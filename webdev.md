@@ -2,12 +2,6 @@
 
 Resources to make web development easier
 
-## Styling
-
-  - 
-  - 
-  - 
-
 ## Email Design
 
 ### <a href="https://beefree.io/">www.beefree.io</a>
