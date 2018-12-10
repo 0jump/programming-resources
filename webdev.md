@@ -20,6 +20,10 @@ The present document describes what “Yandex” considers to be an honest maili
 ### <a href="https://www.mockaroo.com/">www.mockaroo.com</a>
  
  Mockaroo lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats.
+ 
+## Hotlink Protection
+ 
+### <a href="http://www.htaccesstools.com/hotlink-protection/">www.htaccesstools.com/hotlink-protection<a/>
   
-  
+Use this generator to create a .htaccess file for hotlink protection of your images and pictures. Hotlink protection can save you lots of bandwidth by preventing other sites from displaying your images.
   
