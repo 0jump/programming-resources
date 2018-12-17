@@ -1,5 +1,9 @@
 ## Strings
 
+### Compile with C++ 11
+
+`g++ -std=c++11 qcm.cc -o qcm`
+
 ### String Declaration
 
 Make sure to `#include <string>`
